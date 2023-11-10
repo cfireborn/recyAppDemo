@@ -2,7 +2,7 @@
 
 A proof-of-concept / minimum viable product for a daily engagement app incorporating edTech elements and real-world rewards to motivate users to live sustainably
 
-A chunk of intellectual property to support the circularity brand [SuperHero Recycling](superherorecycling.com/help).
+A chunk of intellectual property to support the circularity brand [SuperHero Recycling](https://superherorecycling.com/help).
 
 # App Demo
 
@@ -14,7 +14,7 @@ This project was created with [Xcode 13](https://developer.apple.com/documentati
 
 ## Installation Instructions
 
-Set up git ([tutorial here](https://bytes.usc.edu/cs104/labs/lab0/)) and clone the repo, then open it in Xcode. Here's a recording of us getting it up and running with Alexi [usc.zoom.us recording](https://usc.zoom.us/rec/play/MybPbPb_NgDpFVagvQ3_kW6TbXVcqV1W3Zzhqrat_BkdNuwO7ujKUnRrBj_xMarJZK0FmDIjDtp3kJst.0V5tsZl1MHL-GK2H?continueMode=true)
+Set up git ([tutorial here](https://bytes.usc.edu/cs104/labs/lab0-github/)) and clone the repo, then open it in Xcode. 
 
 With the project opened in Xcode, you can build the project by choosing a built-in simulator and pressing "run" or Command+R: 
 ![BuildDemo](BuildDemo.gif)
@@ -46,9 +46,9 @@ Use an online screenshot generator such as [progressier.com](https://progressier
 ![Screenshots for 5.5 1"](iPhone8PlusScreenshots1.png)
 ![Screenshots for 5.5 2"](iPhone8PlusScreenshots2.png)
 
-The interface for the latter (studio app mockup) is a little tricky, so [here's a zoom recording showing how it works usc.zoom.us recording](https://usc.zoom.us/rec/share/03acjvTKhXr2iixQ9HWgHeFWqDcPm2vnnaka0gJvCytzNZRDifMcGke_Gry5rzdA.YEW7jvJa8XP_5ktl)
+The interface for the latter (studio app mockup) is a little tricky.
 
-App metadata for App Store submission can be found in the SuperHero drive [here](https://docs.google.com/spreadsheets/d/1jupnhoa4wMZDxongVWPMHppqgsMhNAMI7x10hYtTO3k/edit#gid=0)
+App metadata for App Store submission can be found [here](https://developer.apple.com/app-store/review/guidelines/)
 
 ## Learn More
 
@@ -60,18 +60,14 @@ See [gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) for be
 
 # Developer Orientation
 
-Developer Orientation by original dev Charlie Feuerborn [here](zoomlink)] (TODO)
-
-Color palette is available for import to Xcode in the root folder. "SHR App Palette.clr". Just open it from the Xcode color picker.
-
 ![Color Palette import](ColorPaletteImport.gif)
 
-If you have questions about stuff from the video, don't hesitate to give me a call - Alexi's got my number.
+If you have questions about stuff from the video, don't hesitate to give me a call - you've got my number.
 
 ## Intellectual Property
 
-Developed by Rabid Prototyping Games Studio - Charlie Feuerborn 
+Developed by Rabid Prototyping Games Studio - Charlie Feuerborn  
 
-Intellectual property owned by SH Recycling Corp. 
+Source code owned by SH Recycling Corp.  
 
-All Rights Reserved
+All Rights Reserved  
