@@ -66,7 +66,7 @@ If you have questions about stuff from the video, don't hesitate to give me a ca
 
 ## Intellectual Property
 
-Developed by Rabid Prototyping Games Studio - Charlie Feuerborn  
+Developed by First Draft Games LLC - Charlie Feuerborn  
 
 Source code owned by SH Recycling Corp.  
 
