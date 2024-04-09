@@ -25,38 +25,14 @@ You can get to the GOD MODE page with testing buttons (Changing streak values, k
 
 ![GodMode Hack](GodModeHack.gif)
 
-## Preparing For App Store Submission
-
-Take screenshots of the simulator.
-
-It is best practice to hide the status bar, which you can do by:
-1. Open Info.plist.
-2. Add row with key View controller-based status bar appearance and value NO if not present.
-3. Add row with key Status bar is initially hidden with value YES if not present.
-4. Save and run the project.
-
-[[Source]](https://gist.github.com/remarkablemark/95f4d09feebd92ac876103fef9be6114)
-
-Use an online screenshot generator such as [progressier.com](https://progressier.com/pwa-screenshots-generator) to prettify the screenshots (6.5"). The raw .SCREENSHOTS file is on the drive in [~/app/Screenshots for app store/Screenshots v1.0/6.5"](https://drive.google.com/drive/folders/15D790oLvh5BNpsdfzCcOp_mttlTJltWZ) if you need to import it back into progressier for work (seriously this is an awesome free service).
-
- This one is also good at time of writing (for iPhone 8 Plus sizes 5.5"): [studio.app-mockup.com](https://studio.app-mockup.com/). Ask me for my login if you want to get the old ones
-
 ![Screenshots for 6.5 1"](iPhone12Screenshots1.png)
 ![Screenshots for 6.5 2"](iPhone12Screenshots2.png)
 ![Screenshots for 5.5 1"](iPhone8PlusScreenshots1.png)
 ![Screenshots for 5.5 2"](iPhone8PlusScreenshots2.png)
 
-The interface for the latter (studio app mockup) is a little tricky.
-
-App metadata for App Store submission can be found [here](https://developer.apple.com/app-store/review/guidelines/)
-
 ## Learn More
 
-To learn Xcode, check out the [documentation](https://developer.apple.com/documentation/xcode). I highly recommend tutorials by [raywenderlich](https://www.youtube.com/watch?v=27TFuaOpUsE), and this tutorial on [Scroll Views](https://www.youtube.com/watch?v=Zvfhhud3MAc)
-
-### Branching
-
-See [gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) for best practices used in this project.
+Prototyping process involved iterating on the product features depending on user behavior and the value they personally placed on the proposed discount rewards offered by the app. Users in the target demographic (USC students) were contacted and provided with an app MVP prototype, and asked to complete the sustainability game every day for a specific number of days. Developer would simply Venmo those users the cash value the user evaluated for their respective reward. Tracking user behavior in actually filling it out helped guide the app's streak requirements and rewards.
 
 # Developer Orientation
 
